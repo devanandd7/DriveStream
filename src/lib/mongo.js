@@ -1,8 +1,7 @@
 import { MongoClient } from "mongodb";
-import dotenv from "dotenv";
-dotenv.config();
+import 'dotenv/config';
 
-const uri = process.env.MONGODB_URI||"mongodb+srv://devanandutkarsh7_db_user:lRrwVLsErlXoBB43@chatmemory1.nbuk2am.mongodb.net/";
+const uri = process.env.MONGODB_URI||"";
 const dbName = process.env.MONGODB_DB || "appdb";
 
 if (!uri) {
