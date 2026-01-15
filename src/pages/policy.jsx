@@ -114,7 +114,7 @@ export default function Policy({ heroText, cards, sections, raw }) {
           )}
           {sections?.third && (
             <div className="rounded-2xl border border-white/10 bg-white/5 p-6">
-              <h2 className="text-lg font-semibold mb-2">3. Third-Party Services</h2>
+              <h2 className="text-lg font-semibold mb-2">3. Third-Party Services.</h2>
               <div className="text-sm text-white/80 whitespace-pre-wrap">{sections.third}</div>
             </div>
           )}
@@ -144,6 +144,9 @@ export default function Policy({ heroText, cards, sections, raw }) {
             ))}
           </article>
         )}
+
+
+
       </div>
     </div>
   );
