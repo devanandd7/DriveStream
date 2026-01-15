@@ -1,0 +1,50 @@
+Your Privacy. Your Control.
+We respect your data. We use it only to give you a better experience — strictly with your permission.
+
+We never sell data
+Your information is never a product. We don't rent or trade your data.
+
+Limited Access
+We only access metadata required to display your files correctly.
+
+Total Control
+You can revoke access or delete your synced data at any time.
+
+1. What Data We Collect
+We collect only what is essential for the service to function:
+
+Google Account ID & Name (for authentication)
+File Metadata (names, sizes, types, and folder structures)
+Encrypted Access Tokens (stored securely to communicate with Drive)
+Telegram User ID (to link your account to the remote control bot)
+Playback Progress (to sync where you left off between devices)
+Note: We do NOT collect passwords, personal email content, or the actual content of your files.
+2. Why We Use Your Data
+Your data is used exclusively to provide the core DriveStream Pro experience:
+
+To build your personal media library interface.
+To allow instant searching via the Telegram bot.
+To sync your viewing history across web and mobile.
+To ensure only you can access your private files.
+We Never Sell Your Data
+"We believe your data belongs to you. We do not sell, rent, or trade user data to third-party advertisers or data brokers. Period."
+
+3. Third-Party Services
+We integrate with a limited number of trusted partners to deliver our service:
+
+Google Cloud API
+Provides access to your files under the "Limited Use" policy.
+Telegram Bot API
+Enables the remote control and search functionality.
+4. Security Measures
+Protecting your information is our top priority. We use industry-standard practices including:
+
+Full HTTPS encryption for all data in transit.
+Secure OAuth 2.0 protocols for Google authentication.
+No local storage of your sensitive Google tokens in the browser.
+Regular security audits of our integration points.
+Questions?
+Our privacy team is here to help you understand how we protect your information.
+
+Contact Privacy Support
+Last Updated: May 20, 2024

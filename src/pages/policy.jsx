@@ -16,6 +16,7 @@ export async function getStaticProps() {
   try {
     const root = process.cwd();
     const candidates = [
+      path.join(root, "public", "plan.txt"),
       path.join(root, "plan.txt"),
       path.join(root, "..", "plan.txt"),
       path.join(root, "..", "..", "plan.txt"),
