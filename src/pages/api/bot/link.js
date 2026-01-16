@@ -44,7 +44,7 @@ export default async function handler(req, res) {
 
     // Notify user on Telegram with a getting-started message (menu-only UX)
     try {
-      const botToken = process.env.TELEGRAM_BOT_TOKEN ||"";
+      const botToken = process.env.TELEGRAM_BOT_TOKEN ;
       if (botToken) {
         const welcome = [
           `✅ Verification complete for ${session.user.email}.`,
