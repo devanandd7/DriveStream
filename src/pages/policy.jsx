@@ -136,6 +136,13 @@ export default function Policy({ heroText, cards, sections, raw }) {
         {sections?.updated && (
           <div className="mt-8 text-xs text-white/60">Last Updated: {sections.updated}</div>
         )}
+        <div className="mt-8 rounded-2xl border border-white/10 bg-white/5 p-6">
+          <h2 className="text-lg font-semibold mb-2">Contact</h2>
+          <div className="text-sm text-white/80 space-y-1">
+            <div>Email: <a className="text-blue-300 hover:text-blue-200 underline" href="mailto:devanandutkarsh7@gmail.com">devanandutkarsh7@gmail.com</a></div>
+            <div>Website: <a className="text-blue-300 hover:text-blue-200 underline" href="https://thedrivestream.vercel.app/" target="_blank" rel="noreferrer">https://thedrivestream.vercel.app/</a></div>
+          </div>
+        </div>
 
         {/* Fallback full content if parsing failed */}
         {!heroText && !Object.values(cards || {}).some(Boolean) && !Object.values(sections || {}).some(Boolean) && raw && (

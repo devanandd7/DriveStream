@@ -1,0 +1,117 @@
+Terms of Service
+
+Last updated: [Add Date]
+
+Welcome to our application / website. By accessing or using our service, you agree to follow these Terms of Service. Please read them carefully.
+
+1. Acceptance of Terms
+
+By using this app or website, you confirm that you understand and agree to these terms.
+If you do not agree, please stop using the service.
+
+Why this matters:
+It clearly shows user consent and protects both user and developer.
+
+2. Use of the Service
+
+You agree to use the service only for legal and ethical purposes.
+
+You must not:
+
+Use the service for illegal activities
+
+Try to hack, damage, or misuse the system
+
+Upload harmful, fake, or abusive content
+
+Interfere with other users’ experience
+
+Problem it solves:
+Prevents misuse, abuse, and security risks.
+
+3. User Accounts
+
+If the service requires login:
+
+You are responsible for your account activity
+
+Keep your login details secure
+
+Inform us if you notice unauthorized access
+
+Why use this rule:
+Protects user accounts and data integrity.
+
+4. Content Responsibility
+
+You are responsible for the content you upload or share
+
+We do not guarantee accuracy of user-generated content
+
+We may remove content that violates rules
+
+Real example:
+If a user posts harmful or false data, it can be removed.
+
+5. Data & Privacy
+
+Your data is handled according to our Privacy Policy.
+We do not sell personal data and collect data only to improve service quality.
+
+Connection:
+Terms of Service + Privacy Policy work together.
+
+6. Third-Party Services
+
+The app may use third-party tools (APIs, hosting, analytics).
+We are not responsible for issues caused by those services.
+
+Example:
+If a payment gateway or cloud service is down, it’s not under our control.
+
+7. Service Availability
+
+We try to keep the service running smoothly
+
+We may update, pause, or stop features at any time
+
+No guarantee of uninterrupted service
+
+Why needed:
+Protects the app owner during maintenance or updates.
+
+8. Limitation of Liability
+
+We are not responsible for:
+
+Data loss
+
+Financial loss
+
+Service interruptions
+
+Errors caused by user actions
+
+Use the service at your own responsibility.
+
+9. Termination
+
+We may suspend or terminate access if:
+
+Terms are violated
+
+Misuse or abuse is detected
+
+Legal requirements demand it
+
+10. Changes to Terms
+
+We may update these Terms of Service from time to time.
+Continued use means you accept the updated terms.
+
+11. Contact Information
+
+If you have questions about these Terms, contact us at:
+📧 Email: devanandutkarsh7@gmail.com
+
+🌐 Website: https://thedrivestream.vercel.app/

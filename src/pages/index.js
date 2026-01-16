@@ -282,7 +282,7 @@ export default function Home() {
               <div className="font-semibold text-white mb-3">Legal</div>
               <ul className="space-y-2 text-sm">
                 <li><Link href="/policy" className="hover:text-white">Privacy Policy</Link></li>
-                <li><a href="#" className="hover:text-white">Terms of Service</a></li>
+                <li><Link href="/terms" className="hover:text-white">Terms of Service</Link></li>
                 <li><a href="#" className="hover:text-white">Cookie Policy</a></li>
               </ul>
             </div>

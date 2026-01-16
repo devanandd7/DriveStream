@@ -27,6 +27,7 @@ export default function Navbar() {
             <Link href="/" className="text-white/80 hover:text-white">Home</Link>
             <Link href="/dashboard" className="text-white/80 hover:text-white">Dashboard</Link>
             <Link href="/movies" className="text-white/80 hover:text-white">Movies</Link>
+            <Link href="/terms" className="text-white/80 hover:text-white">Terms</Link>
             {botUsername && (
               <a
                 href={`https://t.me/${botUsername}`}
@@ -66,6 +67,7 @@ export default function Navbar() {
             <Link href="/" className="text-white/80 hover:text-white" onClick={() => setOpen(false)}>Home</Link>
             <Link href="/dashboard" className="text-white/80 hover:text-white" onClick={() => setOpen(false)}>Dashboard</Link>
             <Link href="/movies" className="text-white/80 hover:text-white" onClick={() => setOpen(false)}>Movies</Link>
+            <Link href="/terms" className="text-white/80 hover:text-white" onClick={() => setOpen(false)}>Terms</Link>
             {botUsername && (
               <a
                 href={`https://t.me/${botUsername}`}
