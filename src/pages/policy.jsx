@@ -57,9 +57,10 @@ export async function getStaticProps() {
         sections,
         raw: hasAny ? "" : raw,
       },
+      revalidate: 3600,
     };
   } catch (e) {
-    return { props: { heroText: "", cards: {}, sections: {}, raw: "We respect your privacy. Policy content is temporarily unavailable." } };
+    return { props: { heroText: "", cards: {}, sections: {}, raw: "We respect your privacy. Policy content is temporarily unavailable." }, revalidate: 3600 };
   }
 }
 

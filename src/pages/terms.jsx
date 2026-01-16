@@ -47,9 +47,9 @@ export async function getStaticProps() {
 
     const parsed = parseTerms(raw);
     const hasStructured = parsed.hero || (parsed.sections && parsed.sections.length > 0);
-    return { props: { raw: hasStructured ? "" : raw, parsed } };
+    return { props: { raw: hasStructured ? "" : raw, parsed }, revalidate: 3600 };
   } catch (e) {
-    return { props: { raw: "Terms are temporarily unavailable.", parsed: { title: "Terms of Service", updated: "", hero: "", sections: [] } } };
+    return { props: { raw: "Terms are temporarily unavailable.", parsed: { title: "Terms of Service", updated: "", hero: "", sections: [] } }, revalidate: 3600 };
   }
 }
 
